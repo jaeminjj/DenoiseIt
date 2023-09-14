@@ -1,4 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=Green&height=300&section=header&text=isoNMF&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Isolated%20Forest%20NMF%20Gene%20Filtering!&descAlignY=51&descAlign=62)
 ## Navigation
 
-<p align="center"><img src="./image/isoNMF_workflow.png" alt="visualize 1" width="250"/></p>
+<img src="./image/isoNMF_workflow.png" width="250"/
