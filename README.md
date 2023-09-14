@@ -2,3 +2,4 @@
 ## Navigation
 
 <p align="center"> <img src="./image/isoNMF_workflow.png" width="600"/> </p>
+<p align="center"> <img src="![isoNMF_workflow](https://github.com/jaeminjj/isoNMF/assets/39480335/37dd6714-c8cb-4266-b70c-b1626f5755f3)" width="600"/> </p>
