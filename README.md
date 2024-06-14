@@ -6,4 +6,4 @@ Below is an illustration of the analysis workflow of MONTI.
 <p align="center"> <img src="./image/DenoiseIt_workflow.png" width="300"/> </p>
 
 ## Tutorial using colon cancer data (TCGA-COAD)
-A brief tutorial for using DenoiseIt can be found under the ['tutorial'](https://github.com/jaeminjj/DenoiseIt/tutorial) directory.
+A brief tutorial for using DenoiseIt can be found under the ['tutorial'](tutorial) directory.
